@@ -10,7 +10,7 @@
 Link: *https://github.com/SRIBD-SPG/Demo-DistDetection*
 <div align=center> <img src="https://github.com/SRIBD-SPG/Demo-DistDetection/blob/main/%E5%88%86%E5%B8%83%E5%BC%8F%E6%A3%80%E6%B5%8Bdemo2s.gif" width="50%" height="50%"  align=center /> </div>. 
 
-**[Demo] Distributed Localization and Tracking:** Localizating and tracking multiple RF emitters.
+**[Demo] Distributed Localization and Tracking:** Localizing and tracking multiple RF emitters.
 
 Link: *https://github.com/SRIBD-SPG/Demo-DistLocalization*
 <div align=center> <img src="https://github.com/SRIBD-SPG/Demo-DistLocalization/blob/main/%E5%A4%9A%E8%BE%90%E5%B0%84%E6%BA%90%E5%A4%9A%E7%BB%B4demo2s.gif" width="50%" height="50%"  align=center /> </div>. 
